@@ -1,0 +1,1 @@
+git pull && go run program.go
